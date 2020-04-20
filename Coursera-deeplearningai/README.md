@@ -4,8 +4,7 @@ Instructor: Andrew Ng
 by deeplearning.ai
 
 
-Course 1: Neural Networks and Deep Learning
-Completed on 20 Apr 2020
+Course 1: Neural Networks and Deep Learning (Completed on 20 Apr 2020)
 
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
